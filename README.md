@@ -1,5 +1,4 @@
 # Wind-energy-investment-feasibility
-Wind Energy Investment Feasibility
 
 This was a group project, focusing on Agile work processes, looking to advise a group of investors on whether U.S Windpower if a good investment.
 

@@ -23,5 +23,7 @@ Visualization: Built Tableau dashboards to communicate trends clearly to non-tec
 Scrum-based framework:
 
 -Sprint planning & backlog management
+
 -Daily standups
+
 -Retrospectives post-deliverables
